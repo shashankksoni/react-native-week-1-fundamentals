@@ -25,6 +25,7 @@ A beginner-friendly React Native app built using **Expo** to demonstrate core co
 
 ## 📷 Screenshots
 
+![Expo go loading ](Screenshots/screenshot-loading-expogo.jpg)
 ![Counter Button](Screenshots/screenshot-counter.jpg)
 
 
