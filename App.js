@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 import { View, Text, Button, StyleSheet } from "react-native";
 
 export default function App() {
@@ -8,9 +8,9 @@ export default function App() {
     <View style={styles.container}>
       <Text style={styles.text}>React Native Counter</Text>
       <Button
-        title= {'clicked ' + count + ' times'}
-        style={styles.button}
+        title={'Clicked ' + count + ' times'}
         onPress={() => setCount(count + 1)}
+        color="#007AFF" // Optional: custom tint color
       />
     </View>
   );
